@@ -1,4 +1,4 @@
-package techproed.tests.Day26_PagesKullanimi;
+package techproed.tests.day26_PagesKullanimi;
 
 import org.testng.annotations.Test;
 import org.testng.asserts.SoftAssert;

@@ -1,4 +1,4 @@
-package techproed.tests.Day26_PagesKullanimi;
+package techproed.tests.day26_PagesKullanimi;
 
 import org.openqa.selenium.Keys;
 import org.testng.Assert;
@@ -7,8 +7,6 @@ import techproed.pages.BlueRentalPage;
 import techproed.utilities.ConfigReader;
 import techproed.utilities.Driver;
 import techproed.utilities.ReusableMethods;
-
-import java.awt.image.Kernel;
 
 public class C04_PozitifTest {
     @Test
